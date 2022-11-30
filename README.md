@@ -1,9 +1,10 @@
 # webTechProject - description
 This is the git repo for the project at Web Tech for the team Chucky Dolls.
 
-Members of the team: - Giurgiteanu Mihai - Andrei
-                     - Dodan Diana Narcisa
-                     - Draghici Costin
+Members of the team: 
+- Giurgiteanu Mihai - Andrei
+- Dodan Diana Narcisa
+- Draghici Costin
 
 Using the following resources given by the professor - 
 (https://docs.google.com/document/d/1JJv9BwST8Ka4cPnlH6zwPeLzkNm50DCQ/view)
